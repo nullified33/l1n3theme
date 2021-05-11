@@ -5,7 +5,7 @@
 body {
   text-align: center;
   background-image: radial-gradient(black 3%, transparent 0%);
-  background-color: aquamarine;
+  background-color: black;
   background-position: 0 0, 50px 50px;
   background-size: 100px 100px;
   height: 200px;
@@ -16,7 +16,7 @@ body {
   width: 200px;
   font-family: monospace;
   font-weight: bold;
-  background-color: aquamarine;
+  background-color: black;
   margin-left: 20px;
 }
 
@@ -61,9 +61,9 @@ button {
   font-family: monospace;
   font-weight: bold;
   font-kerning: normal;
-  background-color: aquamarine;
+  background-color: black;
   border-color: #e7e7e7;
-  color: black;
+  color: white;
 }
 
 label {
